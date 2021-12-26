@@ -1,6 +1,11 @@
-# NodeJS / Typescript Starter 
+# NodeJS / TypeScript Starter 
 
 Boilerplate for a well-structured NodeJS / TypeScript / MongoDB app project
+
+## Using for the first time
+
+* Rename `.env.sample` to `.env` and replace any values/secrets as needed
+* Run `npm install`
 
 
 
